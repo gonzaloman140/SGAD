@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Prueba3</string>
+    <string name="BotonIngresar">Ingresar</string>
+    <string name="tv1">Usuario</string>
+    <string name="BotonAnterior">Anterior</string>
+    <string name="tv2">SegundoActivity</string>
+    <string name="eres_nuevo">¿Eres nuevo?</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="BotonRegistrar">Registrar</string>
+</resources>
